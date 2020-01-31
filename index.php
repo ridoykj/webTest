@@ -16,7 +16,6 @@
     >> 4th. if your mysql is not user = 'root' and password = '' please edit api.php file whice have "PHP" Directory and set your password <br>
     >> 5th. First login username = 'ridoy' and password = 'kumar' <br>
     >> 6th. You Can Register
-    >> that's it man
     </h4>
 </body>
 </html>
