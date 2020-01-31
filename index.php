@@ -15,7 +15,7 @@
     >> 3rd. execute SQL command (mysql) whice have "README/sqlCommand.txt" Directory <br>
     >> 4th. if your mysql is not user = 'root' and password = '' please edit api.php file whice have "PHP" Directory and set your password <br>
     >> 5th. First login username = 'ridoy' and password = 'kumar' <br>
-    >> 6th. You Can Register
+    >> Hello I am Riody kumar Joy So what you want from me bro is this ok
     </h4>
 </body>
 </html>
